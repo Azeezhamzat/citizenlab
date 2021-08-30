@@ -1,8 +1,8 @@
 #.env-back
 #.env-front
 
-back/engines/ee
+#back/engines/ee
 
-citizenlab.config.ee.json
+#citizenlab.config.ee.json
 
-*.DS_Store
+#*.DS_Store
